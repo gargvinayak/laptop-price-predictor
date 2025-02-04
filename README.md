@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine using this command:
 
    ```shell
-   git clone https://github.com/rajatrawal/laptop-price-predictor.git
+   git clone https://github.com/gargvinayak/laptop-price-predictor.git
    ```
 
 2. Navigate to the project directory:
